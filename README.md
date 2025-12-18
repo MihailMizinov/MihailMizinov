@@ -26,5 +26,5 @@ Website with accessibility features for people with disabilities
 Telegram bot for scheduling
 
 ## 📫 Contacts
-- **GitHub:** [MihailMizinov](https://github.com/MihailMizinov)
+- **Email:** [MihailMizinov](mgmizinov@gmail.com)
 - **Telegram:** [@Mihail_o_o](https://t.me/Mihail_o_o)
